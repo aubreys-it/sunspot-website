@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Fri May 11 03:23:50 2018
+ By Aleksey,,,
+Copyright (c) 2018
+</metadata>
+<defs>
+<font id="sunspotdings-Regular" horiz-adv-x="0" >
+  <font-face 
+    font-family="sunspotdings-Regular"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="1638"
+    descent="-410"
+    bbox="41 -505 1597 1579"
+    underline-thickness="100"
+    underline-position="-350"
+    unicode-range="U+000D-F0D1"
+  />
+<missing-glyph horiz-adv-x="1024" 
+d="M256 128h512v1323h-512v-1323zM128 0v1579h768v-1579h-768z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="1024" 
+d="M256 128h512v1323h-512v-1323zM128 0v1579h768v-1579h-768z" />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" unicode="&#xd;" horiz-adv-x="1536" 
+ />
+    <glyph glyph-name="NULL" 
+ />
+    <glyph glyph-name="NULL" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" 
+ />
+    <glyph glyph-name="asterisk" unicode="*" horiz-adv-x="797" 
+d="M303 1403h173v-241l209 68l47 -149l-213 -66l139 -199l-128 -91l-139 188l-143 -188l-128 91l140 199l-213 66l47 149l209 -68v241z" />
+    <glyph glyph-name="a58" unicode="&#x273f;" horiz-adv-x="1692" 
+d="M1092 983q20 27 47 49.5t58 38t65 24.5t67 9q112 0 190 -86t78 -209q0 -117 -79 -190q-79 -74 -203 -74q-24 0 -44 3t-40 9l-82 25q-8 -14 -8 -23l80 -29q91 -33 146 -106q56 -74 56 -160q0 -112 -90 -197q-88 -85 -205 -85q-108 0 -189 86q-81 85 -81 198v88h-24l-3 -86
+q-5 -123 -81 -204q-76 -82 -187 -82q-117 0 -206 85q-89 86 -89 197q0 88 58 164q29 39 65 64.5t78 39.5l82 28q-1 5 -4.5 14t-3.5 10l-82 -27q-36 -12 -88 -12q-123 0 -201 74q-78 73 -78 190q0 123 78 209t190 86q67 0 133 -33q65 -33 105 -86l52 -69q2 1 5.5 3.5
+t14.5 10.5l-49 69q-27 38 -41.5 83.5t-14.5 93.5q0 116 78 191q79 75 201 75t200 -75t78 -191q0 -49 -13.5 -95.5t-39.5 -81.5l-51 -71q14 -8 20 -15zM1098 668q0 106 -73 179t-179 73t-179 -73t-73 -179t73 -179t179 -73t179 73t73 179z" />
+    <glyph glyph-name="leaf" unicode="&#xf0ad;" horiz-adv-x="1137" 
+d="M1096 793q0 -397 -192 -616t-435 -212q-26 1 -43 2.5t-27 3.5q-23 -119 -36 -225.5t-11 -202.5q1 -25 -12 -36.5t-29 -11.5t-29 12.5t-12 35.5q2 109 14 221t38 230q-134 46 -208 173q-73 127 -73 273q0 147 34 248t92 188q59 88 132 158q72 70 183 151q109 79 255 141
+q145 63 189 63q21 0 51 -43q14 -21 33 -65t41 -111q45 -134 45 -377z" />
+    <glyph glyph-name="lozengebutton" unicode="&#xf0b9;" horiz-adv-x="1529" 
+d="M1357 740l-592 -837l-592 837l592 838zM1176 740l-411 581l-411 -581l411 -581zM965 740l-200 -282l-200 282l200 282z" />
+    <glyph glyph-name="X" unicode="&#xf0d1;" horiz-adv-x="1825" 
+d="M1541 321l-210 -209l-418 419l-419 -419l-209 209l418 419l-418 419l209 209l419 -419l418 419l210 -209l-419 -419z" />
+  </font>
+</defs></svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontPrep 20130207 at Fri Jul 21 09:37:46 2017
+ By Benjamin
+Copyright 2017 Adobe Systems Incorporated. All rights reserved.
+</metadata>
+<defs>
+<font id="f41b35e56edf483672d04ef8628b6cda" horiz-adv-x='1024' >
+  <font-face 
+    font-family="sunspotdings-Regular"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="1638"
+    descent="-410"
+    bbox="41 -506 1541 1579"
+    underline-thickness="100"
+    underline-position="-150"
+    unicode-range="U+000D-F0D1"
+  />
+<missing-glyph horiz-adv-x="1024" 
+d="M256 128h512v1323h-512v-1323zM128 0v1579h768v-1579h-768z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="1024" 
+d="M256 128h512v1323h-512v-1323zM128 0v1579h768v-1579h-768z" />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" unicode="&#xd;" horiz-adv-x="1536" 
+ />
+    <glyph glyph-name="NULL" 
+ />
+    <glyph glyph-name="NULL" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" 
+ />
+    <glyph glyph-name="asterisk" unicode="*" horiz-adv-x="797" 
+d="M303 1403h173v-241l209 68l47 -149l-213 -66l139 -199l-128 -91l-139 188l-143 -188l-128 91l140 199l-213 66l47 149l209 -68v241z" />
+    <glyph glyph-name="octastar2" unicode="&#xf0ad;" horiz-adv-x="1137" 
+d="M270 -457q0 216 52 451q-135 47 -208 173.5t-73 272.5t34.5 248t92 188.5t131.5 158t183.5 150.5t254.5 141.5t189 62.5q22 0 51.5 -42.5t74 -176t44.5 -377.5q0 -397 -191.5 -615.5t-435.5 -212.5q-51 3 -70 6q-47 -237 -47 -428q0 -23 -11.5 -36t-29.5 -13t-29.5 14
+t-11.5 35z" />
+    <glyph glyph-name="lozengebutton" unicode="&#xf0b9;" horiz-adv-x="1529" 
+d="M565 740l200 282l200 -282l-200 -282zM354 740l411 -581l411 581l-411 581zM173 740l592 838l592 -838l-592 -837z" />
+    <glyph glyph-name="x5" unicode="&#xf0d1;" horiz-adv-x="1825" 
+d="M913 949l418 419l210 -209l-419 -419l419 -419l-210 -209l-418 419l-419 -419l-209 209l418 419l-418 419l209 209z" />
+  </font>
+</defs></svg>
