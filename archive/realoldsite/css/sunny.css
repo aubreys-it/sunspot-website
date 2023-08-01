@@ -1,0 +1,116 @@
+@font-face {
+	font-family: 'Absolut';
+	src: url('absolut_pro_light_reduced-webfont.eot');
+	src: local('☺'), url('absolut_pro_light_reduced-webfont.woff') format('woff'), url('absolut_pro_light_reduced-webfont.ttf') format('truetype'), url('absolut_pro_light_reduced-webfont.svg#webfont8ILOUXoG') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+/* Global 
+reset */
+*, html, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, label, fieldset, input, p, blockquote, th, td {margin:0;padding:0}
+table {border-collapse:collapse; border-spacing:0}
+fieldset, img {border:0}
+address, caption, cite, code, dfn, th, var {font-style: normal; font-weight: normal}
+ol, ul, li {list-style:none}
+caption, th {text-align:left}
+h1, h2, h3, h4, h5, h6 {font-size:100%; font-weight:normal}
+/* Links 
+*/
+a {outline:none;color:#ddb622} /* Gets rid of Firefox's dotted borders */
+a img {border:none } /* Gets rid of IE's blue borders */
+a:hover{color:#7a320f;text-decoration:none}
+a:focus{color:#555}
+/* Layout 
+*/
+html, body {height:100%;}
+body {
+	text-align: left;
+	width: 100%;
+	font: normal normal 1em/1.5em Verdana, sans-serif;
+	color: #1e0701;
+	background: url(../images/bgwhite.jpg) #fbfbfb
+}
+#wrapper{min-height:100%;height: auto !important;height:100%;width:100%;margin-bottom:-100px}
+#header{position: relative;width:100%;min-width:1210px;height:229px;background: url(../images/bgheader.jpg) #ddb622}
+#maincontent{position: relative;width:100%;min-width:1205px;height:auto;min-height:300px;z-index:999}
+#textbox,.col1,.col2,#menubox{position:relative;float:left;width:386px;color:#4d332c;font-family: Verdana, san-serif;font-size:13px;margin-bottom:40px;margin-left:35px}
+#menubox{width:525px}
+.col1,.col2{left:0;margin:0 0 40px 0;width:252px}
+.calbtn{position:relative;width:281px;height:72px;margin:32px 0 8px -8px}
+#footer,.push{height:158px;clear:both}
+#footer{position:relative;width:100%;min-width:1210px;background: url(../images/bgyellow.jpg) #ddb622;z-index:999}
+#dots{position:relative;background: url(../images/bgfooterdots.jpg) repeat-x;height:38px;width:100%;min-width:1210px;z-index:999}
+.clearme{clear:both;}
+/* Typography 
+*/
+strong {font-style:normal;font-size:.9em;text-transform:capitalize;font-weight:bold}
+h1{font-family: "Absolut", Verdana, san-serif;color:#7a320f;padding:31px 0 7px;font-size:19px;font-weight:normal;letter-spacing:.002em;text-transform:capitalize}
+h2{font-size:.9em;font-family: Verdana, san-serif;color:#d0aa1b;text-transform:uppercase;font-weight:bold;letter-spacing:.05em}
+#menubox h2{border-bottom: .3em dotted #d0aa1b;margin:6px 0 13px 0; width:95%}
+h3{font-size:.9em;font-family: Verdana, san-serif;color:#7a320f;font-weight:bold;letter-spacing:.05em}
+em {font-style: italic;font-size:.8em;line-height:1.3em}
+p{margin:0px;color:#4d332c;font-size:12px;font-family: Verdana, san-serif;line-height:1.3em;padding-bottom:8px}
+address{font-size:.77em;font-family: Verdana, san-serif;color:#fff;letter-spacing:.002em;padding:35px 0}
+address a{text-decoration:none;color:#fff}
+address a:hover{text-decoration:underline}
+.pdf{font-size:.9em;font-family: Verdana, san-serif;color:#d0aa1b;text-transform:uppercase;font-weight:bold;letter-spacing:.05em;padding:0 0 7px 0}
+.pdf img {vertical-align: baseline}
+ul li{font-size:.86em}
+/* nav 
+*/
+#nav{position:absolute;top:131px;left:607px;list-style-type:none;float:left;width:600px;height:38px;margin:0}
+#nav ul li {display:inline}
+#nav ul li a {display:block;float:left;cursor:pointer}
+#nav li span {display:none;cursor:pointer}
+#nav a:focus {background-position: 0 -76px}
+#navhome,#navhome a,#navmenu,#navmenu a,#navbeer,#navbeer a,#navevent,#navevent a,#navloc,#navloc a,#navabout,#navabout a{height:35px;cursor:pointer}
+#navhome, #navhome a {width:90px; background: url(../images/navsprit-2012.jpg) 0 0 no-repeat}
+#navhome a:hover{background-position: 0 -35px}
+#navhome .active {background-position: 0 -34px}
+#navhome a:focus{background-position: 0 -69px}
+#navmenu, #navmenu a {width:99px; background: url(../images/navsprit-2012.jpg) -90px 0 no-repeat}
+#navmenu a:hover{background-position: -90px -35px}
+#navmenu .active{background-position: -90px -34px}
+#navmenu a:focus{background-position: -90px -69px}
+#navbeer, #navbeer a {width:95px; background: url(../images/navsprit-2012.jpg) -189px 0 no-repeat}
+#navbeer a:hover{background-position: -189px -35px}
+#navbeer .active{background-position: -189px -34px}
+#navbeer a:focus {background-position: -189px -69px}
+#navloc, #navloc a {width:134px; background: url(../images/navsprit-2012.jpg) -285px 0 no-repeat}
+#navloc a:hover{background-position: -285px -35px}
+#navloc .active{background-position: -285px -34px}
+#navloc a:focus {background-position: -285px -69px}
+#navabout, #navabout a {width:105px; background: url(../images/navsprit-2012.jpg) -420px 0 no-repeat}
+#navabout a:hover{background-position: -420px -35px}
+#navabout .active{background-position: -420px -34px}
+#navabout a:focus {background-position: -420px -69px}
+/* social nav 
+*/
+#social{position:relative;float:left;background: url(../images/bgfollowus.jpg) no-repeat;height:90px;width:142px;padding: 28px 0 0 23px}
+#social ul li {display:inline}
+#social ul li a {display:block;float:left;cursor:pointer;margin-right:11px}
+#social li span {display:none;cursor:pointer}
+.myspace,.facebook,.twitter,.myspace a,.facebook a,.twitter a {width:23px;height:22px;background: url(../images/social.jpg) no-repeat}
+.myspace, .myspace a{background-position:0 0}
+.facebook, .facebook a{background-position:-33px 0}
+.twitter, .twitter a{background-position:-66px 0}
+#social li span {display:none;cursor:pointer}
+/* slide-show 
+*/
+#prev,#next{display:block;position:absolute;margin: 330px 0 0 425px;width:77px;height:17px;background:url(../images/slideshow/btn_prev.gif) no-repeat 0 0;z-index:5}
+#next{margin: 330px 0 0 505px;width:58px;background:url(../images/slideshow/btn_next.gif) no-repeat 0 0}
+#prev span, #next span{display:none}
+#overlay{position: absolute;width:606px;height:347px;background: url(../images/photo_overlay.png);z-index:3}
+#sliderwrap{position:relative;width:606px;height:347px;float:left;overflow:hidden;z-index:2}
+#sliderwrap #slider ul, #sliderwrap #slider li {margin:0; padding:0; list-style:none}
+#slider li{width:606px;height:347px;overflow:hidden}
+#slider,.pics{position:relative;z-index:1}
+/* tabs
+*/
+#tabs { position: relative; padding: 0; zoom: 1; } /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+#tabs ul li { margin: 0; padding: 0;}
+#tabs li { list-style: none; position: relative; top: 1px; margin: 0; border-bottom: 0 !important; padding: 0; white-space: nowrap; display: inline;}
+#tabs li a { float: left; padding: 0 20px 0 0; text-decoration: none; color:#7a320f;}
+#tabs li a.current { cursor: pointer; color:#d0aa1b;}
+#tabs li a { cursor: pointer; }
+#tabs li a:hover {font-size:1.1em;}
