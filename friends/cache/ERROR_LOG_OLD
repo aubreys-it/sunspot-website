@@ -1,0 +1,2 @@
+<?php die(); ?>
+[08-Aug-2013 14:14:02] PHP Notice:  Undefined index:  d in /home3/arburles/public_html/sunspot/friends/admin/subscribers/ajax/manage.rpc.php on line 66
