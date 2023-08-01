@@ -1,0 +1,12 @@
+[23-Apr-2012 05:16:52] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home3/arburles/public_html/sunspot/friends/cache/ERROR_LOG in /home3/arburles/public_html/sunspot/friends/inc/helpers/maintenance.php on line 31
+[04-Dec-2021 16:08:00 America/Boise] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Pommo has a deprecated constructor in /home1/arburles/public_html/sunspot/friends/inc/classes/pommo.php on line 25
+[04-Dec-2021 16:08:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home1/arburles/public_html/sunspot/friends/bootstrap.php:56
+Stack trace:
+#0 /home1/arburles/public_html/sunspot/friends/index.php(25): require()
+#1 {main}
+  thrown in /home1/arburles/public_html/sunspot/friends/bootstrap.php on line 56
+[24-Dec-2022 21:54:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home1/arburles/public_html/sunspot/friends/bootstrap.php:49
+Stack trace:
+#0 /home1/arburles/public_html/sunspot/friends/index.php(25): require()
+#1 {main}
+  thrown in /home1/arburles/public_html/sunspot/friends/bootstrap.php on line 49
