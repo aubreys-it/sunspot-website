@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /oldsite/
+Disallow: /realoldsite/
+Disallow: /newsite/
+Disallow: /friends/
+Disallow: /demo/
