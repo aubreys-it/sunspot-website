@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/arburles/public_html/sunspot
+    - /bin/cp -r * $DEPLOYPATH
